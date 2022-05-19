@@ -1,24 +1,14 @@
-# Welcome to JustGuitarInfo Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
 # --- Required options --- #
 
 # Name of website
-title: Just Guitar Info
+title: Denisse Vallecillos
 
 # Your name to show in the footer
-author: Chris Paul
+author: Denisse Vallecillos
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  Beginner Level 1: "beginner-level-1"
-  Beginner Level 2: "beginner-level-2"
-  Intermediate: "intermediate"
-  Music Theory for Visual Learners: "musictheory"
-  Downloads: "store"
+#navbar-links:
 
 # --- Logo --- #
 
@@ -36,9 +26,7 @@ avatar: "/assets/img/guitar-logo.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "chrispaul.ws@gmail.com"
-  #facebook: chris.modernbandacademy
-  #instagram: chrispaul_in_theory
+  email: "rdvallecillos@gmail.com"
 
 
 
@@ -51,7 +39,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "JustGuitar.info"
+url-pretty: "dvstrings.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 150
@@ -102,7 +90,7 @@ footer-hover-col: "#0085A1"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-Q8S62KQBYP"
+#gtag: "G-Q8S62KQBYP"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
@@ -164,4 +152,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# 2fc73a3a967e97599c9763d05e564189crp
+# 2fc73a3a967e97599c9763d05e564189rdv
