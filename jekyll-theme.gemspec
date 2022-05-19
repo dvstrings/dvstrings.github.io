@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "justguitar-jekyll-theme"
-  spec.summary       = "Just Guitar Info"
+  spec.name          = "dvstrings-jekyll-theme"
+  spec.summary       = "Denisse Vallecillos"
   spec.version       = "1.0.0"
-  spec.authors       = ["Chris Paul"]
-  spec.email         = ["chrispaul.ws@gmail.com"]
+  spec.authors       = ["Denisse Vallecillos"]
+  spec.email         = ["rdvallecillos@gmail.com"]
 
   spec.license       = "MIT"
 
